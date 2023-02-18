@@ -1,3 +1,3 @@
 # Blue and green
-This is my homebrew channel theme
-hope you like it
+# This is my homebrew channel theme
+# hope you like it
